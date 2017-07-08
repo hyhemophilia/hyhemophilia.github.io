@@ -1,6 +1,7 @@
+{% comment %}
+
 ## Team
 
-{% comment %}
 
 **Sidhartha**	  
 WhatsApp Admin,
