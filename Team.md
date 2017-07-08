@@ -1,5 +1,7 @@
 ## Team
 
+{% comment %}
+
 **Sidhartha**	  
 WhatsApp Admin,
 Community Founder.
@@ -11,3 +13,6 @@ Registry Moderator.
  **Anil Phani**
  Web Developer,
  Techonolagy Mentor.
+ 
+ {% endcomment %}
+
