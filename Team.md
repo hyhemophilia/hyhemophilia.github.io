@@ -1,4 +1,5 @@
 ## Team
+{% comment %}
 
 
 **Sidhartha**	  
@@ -12,8 +13,6 @@ Registry Moderator.
  **Anil Phani**
  Web Developer,
  Techonolagy Mentor.
- 
- {% comment %}
  
  {% endcomment %}
 
